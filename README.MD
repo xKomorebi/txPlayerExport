@@ -21,3 +21,5 @@ txPlayerExport is a Python application that allows you to sort and export the co
 2. Clone this repository or download the source code to your local machine.
 
 3. python3 txPlayerExport.py and be on your way!
+
+![Alt text](image.png)
